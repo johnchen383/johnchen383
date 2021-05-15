@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm an aspiring software developer 💻😎 currently in my pre-penultimate year studying Software Engineering at UoA. Find more about who I am and some of the projects I've been working on by visiting [my web profile](https://seevee.co.nz/john)
 
