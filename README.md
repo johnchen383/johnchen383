@@ -6,6 +6,7 @@ An aspiring software developer 💻😎 currently in my penultimate year studyin
 
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=johnchen383&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnchen383&size_weight=0.2&langs_count=10"/> -->
 </p>
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=johnchen383&count_private=true&hide=issues,contribs&show_icons=true) -->
